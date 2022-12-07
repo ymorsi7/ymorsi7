@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**ymorsi7/ymorsi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yusuf, and I'm an ECE Machine Learning student at UC San Diego.
 
-Here are some ideas to get you started:
+I enjoy working on projects that involve machine learning, computer vision, and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly write code in Python, C++, and MATLAB, but am also proficient in MERN stack development.
+
+Visit my [website](https://ymorsi7.github.io/) to learn more!
+
+<br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ymorsi7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ymorsi7&theme=dark&mode=weekly)](https://git.io/streak-stats)
