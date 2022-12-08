@@ -2,7 +2,7 @@
 
 My name is Yusuf, and I'm an <span style = "color:#20df90">**Electrical and Computer Engineering**</span> major specializing in <span style="color: #20df90;">**Machine Learning**</span> at UC San Diego.
 
-I mainly write in Python, C++, and MATLAB, but am also proficient in MERN stack development.
+I mainly write in Python, C++, and MATLAB, but am also proficient in MERN and Nuxt stack development.
 
 Visit my [website](https://ymorsi7.github.io/) to learn more!
 
