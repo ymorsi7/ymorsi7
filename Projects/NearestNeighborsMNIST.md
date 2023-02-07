@@ -45,3 +45,8 @@ As seen before, our classifier has a hard time distinguishing between the number
 
 Unlike in our other cases, the numbers four and nine are written very clearly here. I would say that the classifier failed to perform here because the number nine in the latter image has a couple pixels on the right, similar to the number four in the former, leading it to believe that they were the same number. 
 ![misclassified 5](images/nnmnist/5.png)
+
+
+<hr>
+
+Note: the MATLAB code is private for Academic Integrity purposes.
