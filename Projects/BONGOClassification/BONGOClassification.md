@@ -1,49 +1,50 @@
 # CAPTCHA Classification: Solving BONGO Puzzles with Python
 
 ## Yusuf Morsi
-### Feb 7, 2023
+### Feb 8, 2023
 
-## 1
-I wrote a function that would solve four different CAPTCHA (BONGO) generators. Tools that I used for this were OpenCV, NumPy, and Scikit-learn.
-
-
+## Introduction
+CAPTCHA, an acronym for Completely Automated Public Turing Test to Tell Computers and Humans Apart, is used to distinguish between computers and humans every day on the internet. One of the interesting CAPTCHAs is BONGO, which asks users to solve a visual pattern recognition problem. In this project, I built a simple visual recognition algorithm to hack a system similar to BONGO.
 
 <hr>
 
-## 2
+## The 4 Puzzles
 
-After calculating the individual error rates, I calculated the overall error rate, which was 0.122. This shows that the classifier was able to correctly classify 87.8% of the test images, and that there is certainly room for improvement.
+The following are the four types of puzzles that my algorithm was able to solve:
+
+### Puzzle 1
+
+![Puzzle 1](images/1.png)
+
+### Puzzle 2
+
+![Puzzle 2](images/2.png)
+
+
+### Puzzle 3
+![Puzzle 3](images/3.png)
+
+### Puzzle 4
+![Puzzle 4](images/4.png)
+
+<hr>
+
+## Implementation
+
+After taking in a list of images (the first two being the ones the user selects from and the third being a test image), I use enumerate to loop through and save each as a .png file. Then, I use OpenCV's cv.imread function to read each image before converting to grayscale (cv.cvtColor), then subsequently applying a threshold. After that, I use cv.findCountours to find the contours of thresholded image. If no contours are found, a zero is added to a list, and if there are contours, the first one is selected and approximated with cv.approxPolyDP. The length is later added to the a. At the end, the first and third elements are compared, and the function returns a zero if they're equal. If not, a 1 is returned.
+
+My performance is as follows:   
 
 ```
-P(Error): 0.122000
+The accuracy of question 1 is 1.000000
+
+The accuracy of question 2 is 1.000000
+
+The accuracy of question 3 is 1.000000
+
+The accuracy of question 4 is 1.000000
 ```
 
-
-
-
-
 <hr>
 
-## 3
-### For 5 test images that were misclassified by the NN classifier, I displayed both the test image, and training image closest to it. 
-
-By looking at the test image and its corresponding nearest image, I can infer that the nearest neighbor classifier failed to perform because the number four in the former has plenty of similarities with the number nine in the latter. This is a very common mistake that not only NN classifiers, but also humans make.
-
-![misclassified 1](images/nnmnist/1.png)
-
-The classifier failed to perform here again because the number four in the former has plenty of similarities with the number nine in the latter. However, here it is apparent that the number nine in the latter image is a bit sloppy and even has a gap between its top two points.
-![misclassified 2](images/nnmnist/2.png)
-
-I reckon that in the former image here, the number six is so sloppy that the classifier had no clue what number it is. It just looked for an image with a similar location of pixels as the former, and found a '4' with such qualities.
-![misclassified 3](images/nnmnist/3.png)
-
-As seen before, our classifier has a hard time distinguishing between the number four and the number nine. Here, the number four in the latter image has a very small gap between its top two points, which caused our classifier to believe that it was a number nine.
-![misclassified 4](images/nnmnist/4.png)
-
-Unlike in our other cases, the numbers four and nine are written very clearly here. I would say that the classifier failed to perform here because the number nine in the latter image has a couple pixels on the right, similar to the number four in the former, leading it to believe that they were the same number. 
-![misclassified 5](images/nnmnist/5.png)
-
-
-<hr>
-
-Note: the MATLAB code is private for Academic Integrity purposes.
+Note: the Python code is private for Academic Integrity purposes.
