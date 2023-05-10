@@ -47,4 +47,4 @@ The accuracy of question 4 is 1.000000
 
 <hr>
 
-Note: the Python code is private for Academic Integrity purposes.
+Note: My Python code is private for Academic Integrity purposes.
