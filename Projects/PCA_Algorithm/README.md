@@ -38,6 +38,8 @@ Below is the image that looks least like the number 5:
 
 ![Image](images/p3.png)
 
+<span> Irrelevant fun fact: this looks a lot like the number 5 in Arabic numerals </span>
+
 ## Conclusion
 
 This project shows the effectiveness of using the PCA algorithm to reduce the dimensionality of our image dataset and improve classification performance. The visual representation of the top principal components as images gives us a very good outlook into the most important features relevant to classification. By analyzing the eigenvalues, we were able to find the optimal subspace dimension for achieving accurate classification results.
