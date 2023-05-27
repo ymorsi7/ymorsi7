@@ -1,4 +1,4 @@
-# PCA Algorithm for MNIST
+# PCA Algorithm for Image Classification
 
 ## Yusuf Morsi
 ### Mar 17, 2023
