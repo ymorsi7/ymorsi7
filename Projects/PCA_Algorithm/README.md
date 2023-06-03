@@ -12,15 +12,15 @@ In this section, we aim to implement the PCA algorithm for dimensionality reduct
 
 Below are plots of the top ten principal components as 28x28 images.
 
-![PCs](images/p11.png)
+<img src="images/p11.png"  width="600">
 
 Below we repeat the same thing for the class for the digit 5. 
 
-![PCs](images/p12.png)
+<img src="images/p12.png"  width="600">
 
 Below is a plot of the eigenvalues of the entire dataset (in decreasing order).
 
-![Eigenvalues](images/p13.png)
+<img src="images/p13.png"  width="600">
 
 ## 2
 
@@ -28,7 +28,7 @@ Moving on, we will explore classification using the PCA subspace. Analyzing the 
 
 Below we see the total error rate using subspaces of following dimensions: [5, 10, 20, 30, 40, 60, 90, 130, 180, 250, 350].
 
-![Error Rates](images/p2.png)
+<img src="images/p2.png"  width="600">
 
 ## 3
 
@@ -36,7 +36,7 @@ Lastly, we will focus on identifying the image in our imageTest dataset that is 
 
 Below is the image that looks least like the number 5:
 
-![Image](images/p3.png)
+<img src="images/p3.png"  width="600">
 
 <span> Irrelevant fun fact: this looks a lot like the number 5 in Arabic numerals </span>
 
