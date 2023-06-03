@@ -50,4 +50,4 @@ Overall, the successful implementation of PCA and orthogonal energy analysis in 
 
 <hr>
 
-**Note:** the MATLAB code is private for Academic Integrity purposes.
+**Note:** My MATLAB code is private for Academic Integrity purposes.
