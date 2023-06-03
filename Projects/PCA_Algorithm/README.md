@@ -10,7 +10,7 @@ In this project, we are implement PCA to reduce dimensionality, visualize princi
 ## 1
 In this section, we aim to implement the PCA algorithm for dimensionality reduction in our image dataset. We will visualize the top 10 principal components as 28 × 28 images, focusing on both the entire dataset and specifically on the 'digit5' class. To gain insights into the significance of features, we will plot the eigenvalues in descending order.
 
-Below are plots of the top ten prinicpal components as 28x28 images.
+Below are plots of the top ten principal components as 28x28 images.
 
 ![PCs](images/p11.png)
 
