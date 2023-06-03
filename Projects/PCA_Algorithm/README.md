@@ -36,7 +36,7 @@ Lastly, we will focus on identifying the image in our imageTest dataset that is 
 
 Below is the image that looks least like the number 5:
 
-<img src="images/p3.png"  width="600">
+<img src="images/p3.png"  width="300">
 
 <span> Irrelevant fun fact: this looks a lot like the number 5 in Arabic numerals </span>
 
