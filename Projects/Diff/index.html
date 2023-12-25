@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Protected Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+    
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+    
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    
+        input[type="password"] {
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            width: 200px;
+        }
+    
+        button {
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+    
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+    
+
+
+
+    <script type="text/javascript">
+        function checkPassword() {
+            var password = document.getElementById("passwordInput").value;
+            if (password === "ece100fun!") {
+                window.location.href = "diff.pdf";
+            } else {
+                alert("Incorrect password. Please contact Yusuf Morsi for the correct password.");
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h2>Contact Yusuf Morsi for the password to view this document</h2>
+        <p>Password: <input type="password" id="passwordInput"></p>
+        <button onclick="checkPassword()">Submit</button>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
