@@ -1,5 +1,7 @@
 ### Welcome! 👋
 
+<br>
+
 My name is Yusuf, and I'm a <span style = "color:#20df90">**Machine Learning and Data Science M.S. student**</span> at UC San Diego.
 
 <be><hr>
