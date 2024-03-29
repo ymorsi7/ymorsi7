@@ -7,7 +7,7 @@ My undergraduate major was in <span style = "color:#20df90">**Electrical Enginee
 
 I mainly write in Python, C++, and MATLAB, but am also proficient in MERN and Nuxt stack development.
 
-Visit my [website](https://ymorsi7.github.io/) to learn more!
+Visit my [website](https://ymorsi.com/) to learn more!
 
 
 <center>
