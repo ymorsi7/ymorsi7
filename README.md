@@ -2,7 +2,7 @@
 
 My name is Yusuf, and I'm a current <span style = "color:#20df90">**M.S. student**</span> with a major in <span style = "color:#20df90">**Machine Learning and Data Science**</span> at UC San Diego.
 
-<be><hr><br>
+<be><hr>
 My undergraduate major was in <span style = "color:#20df90">**Electrical Engineering**</span> with a specialization in <span style = "color:#20df90">**Machine Learning and Controls**</span>
 
 I mainly write in Python, C++, and MATLAB, but am also proficient in MERN and Nuxt stack development.
