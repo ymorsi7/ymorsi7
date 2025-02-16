@@ -26,6 +26,30 @@ Visit my [website](https://ymorsi.com/) to learn more!
 ![Python](https://img.shields.io/badge/python-%230077b5.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/C++-%23df2c.svg?style=for-the-badge&logo=cpp&logoColor=%23F7DF1E) ![MATLAB](https://img.shields.io/badge/MATLAB-%23e34f2c.svg?style=for-the-badge&logo=matlab&logoColor=%23F7DF1E)   ![Tensorflow](https://img.shields.io/badge/tensorflow-%23323330.svg?style=for-the-badge&logo=tensorflow&logoColor=%2523F7DF1E) ![Pytorch](https://img.shields.io/badge/Pytorch-%23323330.svg?style=for-the-badge&logo=Pytorch&logoColor=%2523F7DF1E) ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DBFB) ![Next.js](https://img.shields.io/badge/next.js-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=%2523F7DF1E)  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%23323330.svg?style=for-the-badge&logo=nuxt.js&logoColor=%2523F7DF1E) ![Vue.js](https://img.shields.io/badge/Vue.js-%23323330.svg?style=for-the-badge&logo=Vue.js&logoColor=%2523F7DF1E) ![Typescript](https://img.shields.io/badge/Typescript-%23323330.svg?style=for-the-badge&logo=Typescript&logoColor=%2523F7DF1E) ![Java](https://img.shields.io/badge/Java-%23323330.svg?style=for-the-badge&logo=Java&logoColor=%2523F7DF1E) 
 ![C](https://img.shields.io/badge/C-%23323330.svg?style=for-the-badge&logo=C&logoColor=%2523F7DF1E) ![Swift](https://img.shields.io/badge/Swift-%23323330.svg?style=for-the-badge&logo=Swift&logoColor=%2523F7DF1E)  ![Jira](https://img.shields.io/badge/Jira-%23323330.svg?style=for-the-badge&logo=Jira&logoColor=%2523F7DF1E)
 
+### Relevant Engineering Coursework:
+
+DSC 209R: Data Visualization
+CSE 258R: Recommender Systems
+ECE 16: Rapid Hardware and Software Design
+ECE 140AB: Full-Stack Product Development
+ECE 143: Programming for Data Analysis
+ECE 148: Autonomous Vehicles
+ECE 171AB: Linear Control System Theory
+ECE 172A: Intelligent Systems and Robotics
+ECE 174: Linear and Nonlinear Optimization
+ECE 175A: Pattern Recognition and Machine Learning
+ECE 176: Deep Learning and Applications
+ECE 228: ML for Physical Applications
+ECE 285: Computer Vision
+
+### Relevant Business Coursework:
+
+MGT 103: Product Management and Marketing
+MGT 172: Project Management
+
+
+
+
 
 ### Contact Me
 
