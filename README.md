@@ -5,7 +5,7 @@
 
 My name is Yusuf, and I'm a <span style = "color:#20df90">**Data Scientist**</span> at Cisco and a <span style = "color:#20df90">**Graduate ML Researcher**</span> at USC.
 
-I'm also pursuing a Masters in <span style = "color:#20df90">**Machine Learning and Data Science M.S. student**</span> at UC San Diego. 
+I'm also pursuing a Masters in <span style = "color:#20df90">**Machine Learning and Data Science**</span> at UC San Diego. 
 
 
 ![Cisco](https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white) ![USC](https://img.shields.io/badge/USC-990000?style=for-the-badge&logo=usc&logoColor=gold) ![UC San Diego](https://img.shields.io/badge/UC_San_Diego-182B49?style=for-the-badge)
