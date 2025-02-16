@@ -2,9 +2,6 @@
 
 ### Welcome! 👋
 
-<br>
-
-
 
 My name is Yusuf, and I'm a <span style = "color:#20df90">**Data Scientist**</span> at Cisco and a <span style = "color:#20df90">**Graduate ML Researcher**</span> at USC.
 
