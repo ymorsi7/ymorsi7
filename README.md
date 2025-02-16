@@ -11,7 +11,7 @@ My name is Yusuf, and I'm a <span style = "color:#20df90">Data Scientist</span> 
 I'm also pursuing a Masters in <span style = "color:#20df90">**Machine Learning and Data Science M.S. student**</span> at UC San Diego. 
 
 
-![Cisco](https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white) ![USC](https://img.shields.io/badge/USC-990000?style=for-the-badge&logo=usc&logoColor=gold)
+![Cisco](https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white) ![USC](https://img.shields.io/badge/USC-990000?style=for-the-badge&logo=usc&logoColor=gold) ![UC San Diego](https://img.shields.io/badge/UC_San_Diego-182B49?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=F5E663)
 
 <be><hr>
 My undergraduate major was in <span style = "color:#20df90">**Electrical Engineering**</span> with a specialization in <span style = "color:#20df90">**Machine Learning and Controls**</span>, also at UCSD.
