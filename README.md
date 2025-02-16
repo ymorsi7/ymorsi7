@@ -46,6 +46,9 @@ Visit my [website](https://ymorsi.com/) to learn more!
 
 - MGT 103: Product Management and Marketing
 - MGT 172: Project Management
+- BUSA90017: Business Decision Making
+- BUSA90018: Elements of Marketing
+- BUSA90019: Organizational Behavior
 
 
 
