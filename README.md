@@ -6,6 +6,8 @@
 
 My name is Yusuf, and I'm a <span style = "color:#20df90">**Machine Learning and Data Science M.S. student**</span> at UC San Diego.
 
+![Cisco](https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+
 <be><hr>
 My undergraduate major was in <span style = "color:#20df90">**Electrical Engineering**</span> with a specialization in <span style = "color:#20df90">**Machine Learning and Controls**</span>, also at UCSD.
 
