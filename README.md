@@ -28,24 +28,24 @@ Visit my [website](https://ymorsi.com/) to learn more!
 
 ### Relevant Engineering Coursework:
 
-DSC 209R: Data Visualization
-CSE 258R: Recommender Systems
-ECE 16: Rapid Hardware and Software Design
-ECE 140AB: Full-Stack Product Development
-ECE 143: Programming for Data Analysis
-ECE 148: Autonomous Vehicles
-ECE 171AB: Linear Control System Theory
-ECE 172A: Intelligent Systems and Robotics
-ECE 174: Linear and Nonlinear Optimization
-ECE 175A: Pattern Recognition and Machine Learning
-ECE 176: Deep Learning and Applications
-ECE 228: ML for Physical Applications
-ECE 285: Computer Vision
+- DSC 209R: Data Visualization
+- CSE 258R: Recommender Systems
+- ECE 16: Rapid Hardware and Software Design
+- ECE 140AB: Full-Stack Product Development
+- ECE 143: Programming for Data Analysis
+- ECE 148: Autonomous Vehicles
+- ECE 171AB: Linear Control System Theory
+- ECE 172A: Intelligent Systems and Robotics
+- ECE 174: Linear and Nonlinear Optimization
+- ECE 175A: Pattern Recognition and Machine Learning
+- ECE 176: Deep Learning and Applications
+- ECE 228: ML for Physical Applications
+- ECE 285: Computer Vision
 
 ### Relevant Business Coursework:
 
-MGT 103: Product Management and Marketing
-MGT 172: Project Management
+- MGT 103: Product Management and Marketing
+- MGT 172: Project Management
 
 
 
