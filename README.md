@@ -33,6 +33,7 @@ Visit my [website](https://ymorsi.com/) to learn more!
 ### Relevant Engineering Coursework:
 
 - DSC 209R: Data Visualization
+- CSE 190: Machine Learning for Audio
 - CSE 258R: Recommender Systems
 - ECE 16: Rapid Hardware and Software Design
 - ECE 140AB: Full-Stack Product Development
