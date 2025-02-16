@@ -33,17 +33,17 @@ Visit my [website](https://ymorsi.com/) to learn more!
 ![C](https://img.shields.io/badge/C-%23323330.svg?style=for-the-badge&logo=C&logoColor=%2523F7DF1E) ![Swift](https://img.shields.io/badge/Swift-%23323330.svg?style=for-the-badge&logo=Swift&logoColor=%2523F7DF1E)  ![Jira](https://img.shields.io/badge/Jira-%23323330.svg?style=for-the-badge&logo=Jira&logoColor=%2523F7DF1E)
 
 ### Internship Experience:
-- Data Science Intern @ FICO
-- Hardware Engineer Intern @ Cisco
-- Software Engineer Intern @ Southwest Airlines
-- Software Engineer Intern @ CarsXE
+- Data Science Intern @ **FICO**
+- Hardware Engineer Intern @ **Cisco**
+- Software Engineer Intern @ **Southwest Airlines**
+- Software Engineer Intern @ **CarsXE**
 
 ### Research Experience:
 
-- Sabek Lab (University of Southern California) (9/2024 - Present)
-- Mobile Systems Design Laboratory (UC San Diego) (6/2022 - 9/2022)
-- DigiHealth Lab (UC San Diego) (5/2021 - 6/2022)
-- Experimental Mechanics Lab (San Diego State University) (6/2019 - 7/2019)
+- Sabek Lab (**University of Southern California**) (9/2024 - Present)
+- Mobile Systems Design Laboratory (**UC San Diego**) (6/2022 - 9/2022)
+- DigiHealth Lab (**UC San Diego**) (5/2021 - 6/2022)
+- Experimental Mechanics Lab (**San Diego State University**) (6/2019 - 7/2019)
 
 ### Relevant Engineering Coursework:
 
