@@ -6,7 +6,7 @@
 
 
 
-My name is Yusuf, and I'm a <span style = "color:#20df90">Data Scientist</span> at Cisco and a <span style = "color:#20df90">Graduate ML Researcher</span> at USC.
+My name is Yusuf, and I'm a <span style = "color:#20df90">**Data Scientist**</span> at Cisco and a <span style = "color:#20df90">**Graduate ML Researcher**</span> at USC.
 
 I'm also pursuing a Masters in <span style = "color:#20df90">**Machine Learning and Data Science M.S. student**</span> at UC San Diego. 
 
