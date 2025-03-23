@@ -51,6 +51,7 @@ Visit my [website](https://ymorsi.com/) to learn more!
 - ECE 175A: Pattern Recognition and Machine Learning
 - ECE 176: Deep Learning and Applications
 - ECE 228: ML for Physical Applications
+- ECE 276A: Sensing & Estimation in Robotics
 - ECE 285: Computer Vision
 
 ### Relevant Business Coursework:
