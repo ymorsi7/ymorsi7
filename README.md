@@ -42,7 +42,7 @@ I mainly write in Python, C++, and MATLAB. visit my [site](https://ymorsi.com/) 
 | CSE 258R: Recommender Systems | ECE 228: ML for Physical Applications | MGT 172: Project Management |
 | ECE 148: Autonomous Vehicles | ECE 285A: Computer Vision | BUSA90018: Elements of Marketing |
 | ECE 172A: Intelligent Systems and Robotics | ECE 269: Advanced Linear Algebra and Applications | BUSA90019: Organizational Behavior |
-| ECE 176: Deep Learning and Applications | ECE 171AB: Linear Control System Theory | |
+| ECE 176: Deep Learning and Applications | ECE 171AB: Linear Control System Theory | ECE140AB: Full-Stack Product Development |
 | ECE 16: Rapid Hardware and Software Design | ECE 276A: Sensing & Estimation in Robotics | |
 | ECE 143: Programming for Data Analysis | ECE 285C: Deep Generative Models | |
 
