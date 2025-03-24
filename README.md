@@ -36,35 +36,18 @@ Visit my [website](https://ymorsi.com/) to learn more!
 - DigiHealth Lab (**UC San Diego**) (5/2021 - 6/2022)
 - Experimental Mechanics Lab (**San Diego State University**) (6/2019 - 7/2019)
 
-### Relevant Engineering Coursework:
+### Relevant Coursework:
 
-- DSC 209R: Data Visualization
-- CSE 190: Machine Learning for Audio
-- CSE 258R: Recommender Systems
-- ECE 16: Rapid Hardware and Software Design
-- ECE 140AB: Full-Stack Product Development
-- ECE 143: Programming for Data Analysis
-- ECE 148: Autonomous Vehicles
-- ECE 171AB: Linear Control System Theory
-- ECE 172A: Intelligent Systems and Robotics
-- ECE 174: Linear and Nonlinear Optimization
-- ECE 175A: Pattern Recognition and Machine Learning
-- ECE 176: Deep Learning and Applications
-- ECE 228: ML for Physical Applications
-- ECE 276A: Sensing & Estimation in Robotics
-- ECE 285: Computer Vision
-
-### Relevant Business Coursework:
-
-- MGT 103: Product Management and Marketing
-- MGT 172: Project Management
-- BUSA90017: Business Decision Making
-- BUSA90018: Elements of Marketing
-- BUSA90019: Organizational Behavior
-
-
-
-
+| ML Applications | ML Theory | Computer Science / Robotics | Business |
+|----------------|-----------|---------------------------|----------|
+| DSC 209R: Data Visualization | ECE 174: Linear and Nonlinear Optimization | | MGT 103: Product Management and Marketing |
+| CSE 190: Machine Learning for Audio | ECE 175A: Pattern Recognition and ML | | BUSA90017: Business Decision Making |
+| CSE 258R: Recommender Systems | ECE 228: ML for Physical Applications | | MGT 172: Project Management |
+| ECE 148: Autonomous Vehicles | ECE 285A: Computer Vision | | BUSA90018: Elements of Marketing |
+| ECE 172A: Intelligent Systems and Robotics | ECE 269: Advanced Linear Algebra and Applications | | BUSA90019: Organizational Behavior |
+| ECE 176: Deep Learning and Applications | ECE 171AB: Linear Control System Theory | | |
+| ECE 16: Rapid Hardware and Software Design | ECE 276A: Sensing & Estimation in Robotics | | |
+| ECE 143: Programming for Data Analysis | ECE 285C: Deep Generative Models | | |
 
 ### Contact Me
 
