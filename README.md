@@ -12,10 +12,7 @@ I'm also pursuing a Masters in <span style = "color:#20df90">**Machine Learning 
 <be><hr>
 My undergraduate major was in <span style = "color:#20df90">**Electrical Engineering**</span> with a specialization in <span style = "color:#20df90">**Machine Learning and Controls**</span>, also at UCSD.
 
-I mainly write in Python, C++, and MATLAB.
-
-Visit my [website](https://ymorsi.com/) to learn more!
-
+I mainly write in Python, C++, and MATLAB. visit my [site](https://ymorsi.com/) to learn more!
 
 <center>
 
