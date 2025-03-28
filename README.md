@@ -41,7 +41,7 @@ I mainly write in Python, C++, and MATLAB. visit my [site](https://ymorsi.com/) 
 | CSE 190: Machine Learning for Audio | ECE 175A: Pattern Recognition and ML | BUSA 90017: Business Decision Making |
 | CSE 258R: Recommender Systems | ECE 228: ML for Physical Applications | MGT 172: Project Management |
 | ECE 148: Autonomous Vehicles | ECE 285A: Computer Vision | BUSA 90018: Elements of Marketing |
-| ECE 172A: Intelligent Systems and Robotics | ECE 269: Advanced Linear Algebra and Applications | BUSA 90019: Organizational Behavior |
+| ECE 172A: Intelligent Systems and Robotics | ECE 272A: Linear Dynamic Systems | BUSA 90019: Organizational Behavior |
 | ECE 176: Deep Learning and Applications | ECE 171AB: Linear Control System Theory | ECE 140AB: Full-Stack Product Development |
 | ECE 16: Rapid Hardware and Software Design | ECE 276A: Sensing & Estimation in Robotics | |
 | ECE 143: Programming for Data Analysis | ECE 285C: Deep Generative Models | |
