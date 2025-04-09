@@ -35,17 +35,18 @@ I mainly write in Python, C++, and MATLAB. visit my [site](https://ymorsi.com/) 
 
 ### Relevant Coursework:
 
-| ML Applications | ML Theory | Business |
-|----------------|-----------|----------|
-| DSC 209R: Data Visualization | ECE 174: Linear and Nonlinear Optimization | MGT 103: Product Management and Marketing |
-| CSE 190: Machine Learning for Audio | ECE 175A: Pattern Recognition and ML | BUSA 90017: Business Decision Making |
-| CSE 258R: Recommenation Systems | ECE 228: ML for Physical Applications | MGT 172: Project Management |
-| ECE 148: Autonomous Vehicles | ECE 285A: Computer Vision | BUSA 90018: Elements of Marketing |
-| ECE 172A: Intelligent Systems and Robotics | ECE 272A: Linear Dynamic Systems | BUSA 90019: Organizational Behavior |
-| ECE 176: Deep Learning and Applications | ECE 171AB: Linear Control System Theory | ECE 140AB: Full-Stack Product Development |
-| ECE 16: Rapid Hardware and Software Design | ECE 276A: Sensing & Estimation in Robotics | |
-| ECE 143: Programming for Data Analysis | ECE 285C: Deep Generative Models | |
-| ECE 208: Computational Biology | MATH 285: Stochastic Processes | |
+| ML Applications                         | ML Theory                           | Business                              |
+|----------------------------------------|-------------------------------------|---------------------------------------|
+| ECE 176: Deep Learning and Applications | ECE 285C: Deep Generative Models    | MGT 103: Product Management and Marketing |
+| CSE 258R: Recommendation Systems        | ECE 175A: Pattern Recognition and ML| BUSA 90017: Business Decision Making  |
+| ECE 148: Autonomous Vehicles            | ECE 174: Linear and Nonlinear Optimization | MGT 172: Project Management         |
+| CSE 190: Machine Learning for Audio     | ECE 228: ML for Physical Applications | BUSA 90018: Elements of Marketing    |
+| ECE 172A: Intelligent Systems and Robotics | ECE 276A: Sensing & Estimation in Robotics | BUSA 90019: Organizational Behavior |
+| ECE 208: Computational Biology          | MATH 285: Stochastic Processes      | ECE 140AB: Full-Stack Product Development |
+| DSC 209R: Data Visualization            | ECE 272A: Linear Dynamic Systems    |                                       |
+| ECE 143: Programming for Data Analysis  | ECE 171AB: Linear Control System Theory |                                     |
+| ECE 16: Rapid Hardware and Software Design |                                     |                                       |
+
 
 ### Contact Me
 
