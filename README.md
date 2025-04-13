@@ -35,7 +35,6 @@ I mainly write in Python, C++, and MATLAB. visit my [site](https://ymorsi.com/) 
 
 ### Relevant Coursework:
 
-You said:
 | ML Applications | ML Theory | Business |
 |----------------|-----------|----------|
 | DSC 209R: Data Visualization | ECE 285C: Deep Generative Models | MGT 103: Product Management and Marketing |
