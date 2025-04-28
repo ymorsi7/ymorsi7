@@ -28,7 +28,7 @@ I mainly write in Python, C++, and MATLAB. visit my [site](https://ymorsi.com/) 
 
 ### Research Experience:
 
-- Sabek Lab (**University of Southern California**) (9/2024 - Present)
+- Sabek Lab (**University of Southern California**) (9/2024 - 4/2025)
 - Mobile Systems Design Laboratory (**UC San Diego**) (6/2022 - 9/2022)
 - DigiHealth Lab (**UC San Diego**) (5/2021 - 6/2022)
 - Experimental Mechanics Lab (**San Diego State University**) (6/2019 - 7/2019)
