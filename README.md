@@ -45,7 +45,7 @@ I mainly write in Python, C++, and MATLAB. visit my [site](https://ymorsi.com/) 
 | ECE 176: Deep Learning and Applications | ECE 171AB: Linear Control System Theory | ECE 140AB: Full-Stack Product Development |
 | ECE 16: Rapid Hardware and Software Design | ECE 276A: Sensing & Estimation in Robotics | |
 | ECE 143: Programming for Data Analysis | ECE 174: Linear and Nonlinear Optimization | |
-| ECE 208: Computational Biology | | |
+|| | |
 
 
 
